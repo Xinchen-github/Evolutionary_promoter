@@ -1,0 +1,163 @@
+
+
+track minus
+shortLabel minus
+longLabel minus
+type bigWig
+autoScale on
+visibility full
+compositeTrack on
+
+    track mesoderm_3to4h.minus
+    parent minus on
+    bigDataUrl CAGE/mesoderm_3to4h.minus.bigWig
+    shortLabel mesoderm_3to4h.minus
+    longLabel mesoderm_3to4h.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track mesoderm_4to6h.minus
+    parent minus on
+    bigDataUrl CAGE/mesoderm_4to6h.minus.bigWig
+    shortLabel mesoderm_4to6h.minus
+    longLabel mesoderm_4to6h.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track mesoderm_6to8h.minus
+    parent minus on
+    bigDataUrl CAGE/mesoderm_6to8h.minus.bigWig
+    shortLabel mesoderm_6to8h.minus
+    longLabel mesoderm_6to8h.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track whole_embryo_3to4h.minus
+    parent minus on
+    bigDataUrl CAGE/whole_embryo_3to4h.minus.bigWig
+    shortLabel whole_embryo_3to4h.minus
+    longLabel whole_embryo_3to4h.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track whole_embryo_4to6h.minus
+    parent minus on
+    bigDataUrl CAGE/whole_embryo_4to6h.minus.bigWig
+    shortLabel whole_embryo_4to6h.minus
+    longLabel whole_embryo_4to6h.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track whole_embryo_6to8h.minus
+    parent minus on
+    bigDataUrl CAGE/whole_embryo_6to8h.minus.bigWig
+    shortLabel whole_embryo_6to8h.minus
+    longLabel whole_embryo_6to8h.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+
+track plus
+shortLabel plus
+longLabel plus
+type bigWig
+autoScale on
+visibility full
+compositeTrack on
+
+    track mesoderm_3to4h.plus
+    parent plus on
+    bigDataUrl CAGE/mesoderm_3to4h.plus.bigWig
+    shortLabel mesoderm_3to4h.plus
+    longLabel mesoderm_3to4h.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track mesoderm_4to6h.plus
+    parent plus on
+    bigDataUrl CAGE/mesoderm_4to6h.plus.bigWig
+    shortLabel mesoderm_4to6h.plus
+    longLabel mesoderm_4to6h.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track mesoderm_6to8h.plus
+    parent plus on
+    bigDataUrl CAGE/mesoderm_6to8h.plus.bigWig
+    shortLabel mesoderm_6to8h.plus
+    longLabel mesoderm_6to8h.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track whole_embryo_3to4h.plus
+    parent plus on
+    bigDataUrl CAGE/whole_embryo_3to4h.plus.bigWig
+    shortLabel whole_embryo_3to4h.plus
+    longLabel whole_embryo_3to4h.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track whole_embryo_4to6h.plus
+    parent plus on
+    bigDataUrl CAGE/whole_embryo_4to6h.plus.bigWig
+    shortLabel whole_embryo_4to6h.plus
+    longLabel whole_embryo_4to6h.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track whole_embryo_6to8h.plus
+    parent plus on
+    bigDataUrl CAGE/whole_embryo_6to8h.plus.bigWig
+    shortLabel whole_embryo_6to8h.plus
+    longLabel whole_embryo_6to8h.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
